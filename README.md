@@ -17,4 +17,4 @@ After settings these variables, all of which are optional, click update, and you
 
 Please keep in mind that both the CMD and the UI window that open must stay open for you to keep your status.
 
-If you need any help, you can join [The support server](https://discord.gg/eJhG4Tq)!
+If you need any help, you can join [the support server](https://discord.gg/eJhG4Tq)!
